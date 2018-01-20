@@ -1,2 +1,2 @@
 # Tarefas
-Gerenciador de Tarefas usando Spring + Hibernate
+Agenda de Tarefas usando Spring + Hibernate
