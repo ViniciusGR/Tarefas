@@ -1,2 +1,2 @@
 # Tarefas
-Um programa simples de gerenciamento de tarefas usando Spring e Hibernate. 
+Gerenciador de Tarefas usando Spring + Hibernate
